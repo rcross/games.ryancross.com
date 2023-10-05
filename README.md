@@ -1,4 +1,4 @@
-# Welcome to Ryan Cross Creates Games
+# Welcome to Ryan Creates Games
 
 This is a new page that will hold information about my games and my game design work
 
